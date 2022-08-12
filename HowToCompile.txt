@@ -1,0 +1,3 @@
+For ArduinoInterface.cpp stuff: -l:C:\gcc\i686-w64-mingw32\lib\libcomdlg32.a
+
+For VASM: vasm6502_oldstyle.exe -Fbin -dotdir HelloWorld.asm
